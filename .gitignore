@@ -1,0 +1,15 @@
+# Salesforce
+.sfdx/
+.sf/
+.vscode/
+*.log
+
+# Node
+node_modules/
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Salesforce CLI
+.sfdx/
