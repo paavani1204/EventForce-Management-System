@@ -38,6 +38,9 @@ EventForce-Management-System/
 │
 ├── force-app/
 ├── manifest/
+├── screenshots/
+├── README.md
+├── .gitignore
 └── event force managent system.docx
 ```
 
@@ -115,7 +118,6 @@ Sharing Settings are configured to control record-level access and data visibili
 
 <img src="./screenshots/Screenshot%202026-10-01%20132449.png" width="800">
 
-
 ## 📄 Project Documentation
 
 The complete project documentation is available in the repository as:
@@ -127,4 +129,3 @@ The complete project documentation is available in the repository as:
 **EventForce Management System**
 
 Developed using Salesforce to support efficient event planning and operations management.
-
