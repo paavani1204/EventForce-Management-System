@@ -47,73 +47,73 @@ EventForce-Management-System/
 
 The Login Page provides secure access to the EventForce Management System.
 
-![Login Page](./Screenshot%202026-10-01%20135216.png)
+<img src="https://github.com/paavani1204/EventForce-Management-System/blob/main/Screenshot%202026-10-01%20135216.png?raw=true" width="800">
 
 ### 2. Home Page
 
 The Home Page provides the main interface for accessing the EventForce Management System.
 
-![Home Page](./Screenshot%202026-10-01%20135058.png)
+<img src="https://github.com/paavani1204/EventForce-Management-System/blob/main/Screenshot%202026-10-01%20135058.png?raw=true" width="800">
 
 ### 3. Salesforce Setup
 
 The Salesforce Setup section is used to configure and manage the application.
 
-![Setup](./Screenshot%202026-10-01%20134936.png)
+<img src="https://github.com/paavani1204/EventForce-Management-System/blob/main/Screenshot%202026-10-01%20134936.png?raw=true" width="800">
 
 ### 4. Event Management
 
 The Event section provides the interface for managing event-related information.
 
-![Event](./Screenshot%202026-10-01%20134758.png)
+<img src="https://github.com/paavani1204/EventForce-Management-System/blob/main/Screenshot%202026-10-01%20134758.png?raw=true" width="800">
 
 ### 5. New Custom Object
 
 A custom object is created to store and manage event-related data in Salesforce.
 
-![New Custom Object](./Screenshot%202026-10-01%20134636.png)
+<img src="https://github.com/paavani1204/EventForce-Management-System/blob/main/Screenshot%202026-10-01%20134636.png?raw=true" width="800">
 
 ### 6. Custom Tabs
 
 Custom tabs are configured to provide easy navigation to the Salesforce objects.
 
-![Tabs](./Screenshot%202026-10-01%20133131.png)
+<img src="https://github.com/paavani1204/EventForce-Management-System/blob/main/Screenshot%202026-10-01%20133131.png?raw=true" width="800">
 
 ### 7. Lightning Component Tabs
 
 Lightning Component Tabs are configured to integrate the required components into the Salesforce application.
 
-![Lightning Component Tabs](./Screenshot%202026-10-01%20132946.png)
+<img src="https://github.com/paavani1204/EventForce-Management-System/blob/main/Screenshot%202026-10-01%20132946.png?raw=true" width="800">
 
 ### 8. Events – Fields and Relationships
 
 The Events object contains the required fields and relationships for managing event information.
 
-![Events Fields and Relationships](./Screenshot%202026-10-01%20132840.png)
+<img src="https://github.com/paavani1204/EventForce-Management-System/blob/main/Screenshot%202026-10-01%20132840.png?raw=true" width="800">
 
 ### 9. App Manager
 
 The App Manager is used to configure and manage the EventForce Salesforce application.
 
-![App Manager](./Screenshot%202026-10-01%20132737.png)
+<img src="https://github.com/paavani1204/EventForce-Management-System/blob/main/Screenshot%202026-10-01%20132737.png?raw=true" width="800">
 
 ### 10. Profiles
 
 Profiles are configured to manage user permissions and access within the Salesforce application.
 
-![Profiles](./Screenshot%202026-10-01%20132640.png)
+<img src="https://github.com/paavani1204/EventForce-Management-System/blob/main/Screenshot%202026-10-01%20132640.png?raw=true" width="800">
 
 ### 11. Clone Profiles
 
 The Clone Profile option is used to create a new profile based on an existing Salesforce profile.
 
-![Clone Profiles](./Screenshot%202026-10-01%20132521.png)
+<img src="https://github.com/paavani1204/EventForce-Management-System/blob/main/Screenshot%202026-10-01%20132521.png?raw=true" width="800">
 
 ### 12. Sharing Settings
 
 Sharing Settings are configured to control record-level access and data visibility.
 
-![Sharing Settings](./Screenshot%202026-10-01%20132449.png)
+<img src="https://github.com/paavani1204/EventForce-Management-System/blob/main/Screenshot%202026-10-01%20132449.png?raw=true" width="800">
 
 
 ## 📄 Project Documentation
